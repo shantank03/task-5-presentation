@@ -12,6 +12,12 @@
 
 # Arrival to the Americas
 
+# A Bunch of Drunk Guys stoke the fire of Revolution
+* Revoluationary groups, like the Sons of Liberty, met in pubs and often discussed the key issues of the day over a tankard of beer
+* I mean how else would a bunch of libertarians convince a rag-tag bunch of colonists to fight the world's best army?
+
+# Impact of Immigrants
+
 # Prohibition
 
 # The Homebrewing Revolution
