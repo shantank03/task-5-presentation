@@ -17,6 +17,8 @@
 * I mean how else would a bunch of libertarians convince a rag-tag bunch of colonists to fight the world's best army?
 
 # Impact of Immigrants
+* In the early days of America most people drank ales, the common beer in England
+* 
 
 # Prohibition
 
