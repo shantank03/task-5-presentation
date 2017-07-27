@@ -1,4 +1,4 @@
- % History of Brewing: Final reveal.js Presentation
+ % History of Brewing
 % Shantan Krovvidi
 % 27, July 2017
 
