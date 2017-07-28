@@ -33,6 +33,7 @@
 
 ## Mark Monopolies
 * Desipte consistent annual growth, Anheuser-Busch and MillerCoors comprise about 75% of the industry's total market share
+* High barriers to entry like competition, capital intensity, and excessive regulations prevent smaller microbrewers from entering the market
 
 # Sources
 * [Beer History](http://www.beerhistory.com/library/holdings/raley_timetable.shtml)
