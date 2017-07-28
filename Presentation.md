@@ -31,7 +31,7 @@
 * Industry revnues topped out at $107.6 billion in 2016
 * The craft beer market rose 10% to $23.5 billion
 
-  ## Market Monopolies
+## Market Monopolies
 * Desipte consistent annual growth, Anheuser-Busch and MillerCoors comprise about 75% of the industry's total market share
 * High barriers to entry like competition, capital intensity, and excessive regulations prevent smaller microbrewers from entering the market
 
