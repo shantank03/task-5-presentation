@@ -11,6 +11,9 @@
 # 
 
 # Arrival to the Americas
+* The first beer brewed in the New World 
+* Thanksgiving might be nice and all but the Pilgrims landed at Plymouth Rock because their beer supplies were low
+* 
 
 # A Bunch of Drunk Guys stoke the fire of Revolution
 * Revoluationary groups, like the Sons of Liberty, met in pubs and often discussed the key issues of the day over a tankard of beer
@@ -26,4 +29,9 @@
 
 # Beer-onomics
 * Industry revnues topped out at $107.6 billion in 2016
-* 
+* The craft beer market rose 10% to $23.5 billion
+
+## 
+
+# Sources
+* [Beer History](http://www.beerhistory.com/library/holdings/raley_timetable.shtml)
