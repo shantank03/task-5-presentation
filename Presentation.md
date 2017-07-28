@@ -25,3 +25,5 @@
 # The Homebrewing Revolution
 
 # Beer-onomics
+* Industry revnues topped out at $107.6 billion in 2016
+* 
