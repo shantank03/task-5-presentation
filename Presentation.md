@@ -11,7 +11,7 @@
 # 
 
 # Arrival to the Americas
-* The first beer brewed in the New World 
+* The first beer brewed in the New World occured at Sir Walter Raleigh's colony in Virginia in 1587 
 * Thanksgiving might be nice and all but the Pilgrims landed at Plymouth Rock because their beer supplies were low
 * 
 
@@ -31,7 +31,9 @@
 * Industry revnues topped out at $107.6 billion in 2016
 * The craft beer market rose 10% to $23.5 billion
 
-## 
+## Mark Monopolies
+* Desipte consistent annual growth, Anheuser-Busch and MillerCoors comprise about 75% of the industry's total market share
 
 # Sources
 * [Beer History](http://www.beerhistory.com/library/holdings/raley_timetable.shtml)
+* [History of Beer](https://en.wikipedia.org/wiki/History_of_beer)
